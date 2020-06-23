@@ -2,22 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isomorphismseven.github.io</id>
     <title>isomorphismseven</title>
-    <updated>2020-06-23T14:22:55.142Z</updated>
+    <updated>2020-06-23T14:50:35.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isomorphismseven.github.io"/>
     <link rel="self" href="https://isomorphismseven.github.io/atom.xml"/>
+    <subtitle>Wovon man nicht sprechen kann, darüber muss man schweigen.</subtitle>
     <logo>https://isomorphismseven.github.io/images/avatar.png</logo>
     <icon>https://isomorphismseven.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, isomorphismseven</rights>
-    <entry>
-        <title type="html"><![CDATA[Infomation]]></title>
-        <id>https://isomorphismseven.github.io/post/infomation/</id>
-        <link href="https://isomorphismseven.github.io/post/infomation/">
-        </link>
-        <updated>2020-06-23T14:09:39.000Z</updated>
-        <content type="html"><![CDATA[<p>This is isomorphismseven's personal blog. Updated irregularly. To contact me, use the comment function.</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[TEST]]></title>
         <id>https://isomorphismseven.github.io/post/test/</id>
