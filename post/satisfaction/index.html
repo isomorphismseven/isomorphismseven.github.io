@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>标签列表 | isomorphismseven</title>
+<title>Satisfaction | isomorphismseven</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,21 @@
 <link rel="stylesheet" href="https://isomorphismseven.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="Wovon man nicht sprechen kann, darüber muss man schweigen.">
+    <meta name="description" content="
+These days I was surprised by Marek Holeček. He completed the route Satisfaction on Gaserbrum I's southwest face. An Al..." />
+    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
@@ -88,10 +96,28 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="tag-list-title">标签列表</h2>
-          <div class="tags-container">
+          <div class="post-detail">
+            <h2 class="post-title">Satisfaction</h2>
+            <div class="post-date">2020-06-24</div>
             
+            <div class="post-content" v-pre>
+              <figure data-type="image" tabindex="1"><img src="https://isomorphismseven.github.io/post-images/1592929045675.jpg" alt="" loading="lazy"></figure>
+<p>These days I was surprised by Marek Holeček. He completed the route Satisfaction on Gaserbrum I's southwest face. An Alpine style climbing on 8000+, new route, M7, ED+, without oxygon, which earned him the 2018 Piolet d’Or. In fact I have known this ascend for half a year, but only now do I start to realise how very great this was. Achu said that his route &quot;Haoduoshui&quot; on Mount Abi</p>
+
+            </div>
+            
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
       </div>
     </div>
@@ -111,6 +137,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'b7b8b61bfe21f1a07123',
+        clientSecret: '9b6dd6b3a6ee806403fb6ca40c504e774da93654',
+        repo: 'isomorphismseven.github.io',
+        owner: 'isomorphismseven',
+        admin: ['isomorphismseven'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
