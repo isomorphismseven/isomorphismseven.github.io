@@ -2,25 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isomorphismseven.github.io</id>
     <title>isomorphismseven</title>
-    <updated>2020-11-13T12:27:32.932Z</updated>
+    <updated>2021-02-21T02:13:13.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isomorphismseven.github.io"/>
     <link rel="self" href="https://isomorphismseven.github.io/atom.xml"/>
     <subtitle>Wovon man nicht sprechen kann, darüber muss man schweigen.</subtitle>
     <logo>https://isomorphismseven.github.io/images/avatar.png</logo>
     <icon>https://isomorphismseven.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, isomorphismseven</rights>
-    <entry>
-        <title type="html"><![CDATA[What is it like to reach your limit?]]></title>
-        <id>https://isomorphismseven.github.io/post/what-is-it-like-to-reach-your-limit/</id>
-        <link href="https://isomorphismseven.github.io/post/what-is-it-like-to-reach-your-limit/">
-        </link>
-        <updated>2020-08-27T10:58:11.000Z</updated>
-        <content type="html"><![CDATA[<p>Many of us have heard the name of Meru or the Shark's Fin due to the movie Meru. In fact, before Canrad, Jimmy and Renan succeeded, Meru was first ascended by a Russian climber Valeri Babanov, who later won a Piolet d’Or for this ascent. I read his report on the AAJ. Its description of the hardship that he went through just shook me.</p>
-<p>This successful ascent was Valeri Babanov's second trial. After fixing 250m of rope, with excitement crowding in his mind, he waited at his tent during a strom. He would soon set up toward the summit at midnight. Cooked some soup and sweet tea. Then he analyzed his actions so far—waiting at basecamp for better weather, finding a good high camp, fixing ropes on the rock wall—and came to the conclusion that they were correct, based upon his knowledge, skills, and instinct. Finally the day of rest had come to an end, and the time of consideration was over. It was time to go. I can almost feel the feeling.<br>
-In the darkness, everything felt different, like entities from another world. He went up slowly and stopped often to keep strength. At 2 am, he reached the end of the ropes.</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, isomorphismseven</rights>
     <entry>
         <title type="html"><![CDATA[Significant ascents of 2019]]></title>
         <id>https://isomorphismseven.github.io/post/significant-ascents-of-2019/</id>
