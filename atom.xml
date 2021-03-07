@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isomorphismseven.github.io</id>
     <title>isomorphismseven</title>
-    <updated>2021-03-04T10:47:14.947Z</updated>
+    <updated>2021-03-07T14:39:07.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isomorphismseven.github.io"/>
     <link rel="self" href="https://isomorphismseven.github.io/atom.xml"/>
@@ -10,6 +10,60 @@
     <logo>https://isomorphismseven.github.io/images/avatar.png</logo>
     <icon>https://isomorphismseven.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, isomorphismseven</rights>
+    <entry>
+        <title type="html"><![CDATA[攀登装备介绍 1 ——Sport Climbing 上]]></title>
+        <id>https://isomorphismseven.github.io/post/zhuang-bei-jie-shao-1/</id>
+        <link href="https://isomorphismseven.github.io/post/zhuang-bei-jie-shao-1/">
+        </link>
+        <updated>2021-03-07T02:31:57.000Z</updated>
+        <content type="html"><![CDATA[<p>本节开始我们介绍一些技术装备。本期是运动攀的相关装备介绍上集。这些装备大多也是其他攀登类型的必备装备。</p>
+<p>购买技术装备请选择可靠渠道，并且注意生产日期。一般来说，5年以上即不宜使用，即使是新装备或貌似没有问题的装备。装备出现一些程度的磨损和老化时请及时更换，具体这里不再细讲。</p>
+<h2 id="atc-air-traffic-controller">ATC (Air Traffic Controller)</h2>
+<p><img src="https://isomorphismseven.github.io/post-images/1615085231737.PNG" alt="" loading="lazy"><em><center> Black Diamond ATC-Alpine Guide </center></em><br>
+ATC是保护(belay)时使用的装备，某些ATC也可用于绳降(rappel)。目前ATC是使用最多的保护装备。ATC一般通过主锁连接到安全带的相应位置。ATC的核心关键是给绳索提供足够的摩擦力。只要操作正确，即使很小的抓握力也能产生很大的摩擦力。<br>
+<img src="https://isomorphismseven.github.io/post-images/1615091969654.jpg" alt="" loading="lazy"><br>
+<em><center> 《登山圣经》上有孔保护器的使用（吊带即安全带） </center></em><br>
+使用ATC时攀登者的手必须时刻确保抓住摩擦端的绳索，否则绳索位置改变，制动效果会大大降低。这也是ATC的不足之处。此外，当绳索进水或结冰、直径变大时，抽绳也将变得困难。在BD的官网上，ATC分为ATC和ATC-Guide等，guide可以作上方保护，此处不再细说。</p>
+<h2 id="carabiner">Carabiner</h2>
+<p><img src="https://isomorphismseven.github.io/post-images/1615091293840.PNG" alt="" loading="lazy"><em><center> Black Diamond Liteforge Screwgate Carabiner </center></em><br>
+主锁(carabiner)是一种锁扣。主锁在攀岩、登山、探洞、消防、航海、热气球、高空作业等活动中都有用处。现在，一般我们说的主锁是开口端带锁套的（如上图），锁套可以旋紧（或自动锁紧），以避免意外打开。主锁分O型(Oval)、D型(D)、改良D型(Offset-D)和梨型(Pear/HMS)。HMS主锁适用于意大利半扣(munter hitch)。<br>
+<img src="https://isomorphismseven.github.io/post-images/1615092474696.jpg" alt="" loading="lazy"><br>
+<em><center> 从左到右分别是O型、D型、改良D型、HMS主锁 </center></em><br>
+正确使用的话，主锁非常坚固。以广泛使用的HMS主锁为例，最佳受力方向当然是纵向（远离锁门的长边，即最长的对角线方向）。国际标准要求最大受力大于20kN。在一些不良使用中，主锁的强度会大大降低。比如锁门打开、横向受力、边缘摩擦、多向受力、杠杆原理、负载过多等。主锁锁身上一般会刻有相关参数，比如不同方向受力的千牛数等。<br>
+主锁是连接ATC、搭建保护站等技术操作中不可缺少的装备。</p>
+<p>图片来自: blackdiamondequipment.com; 登山圣经 第八版。<br>
+参考：华枫教授的知识；《登山圣经》；Wikipedia。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[找规律]]></title>
+        <id>https://isomorphismseven.github.io/post/zhao-gui-lu/</id>
+        <link href="https://isomorphismseven.github.io/post/zhao-gui-lu/">
+        </link>
+        <updated>2021-03-06T13:51:43.000Z</updated>
+        <content type="html"><![CDATA[<p>鱼会玩一个游戏。我苦之久矣。这个游戏看似没有任何说得出来的规则。这对于我这个喜欢确定的规律和法则的人来说简直就是灾难。</p>
+<p>鱼：A是天堂鸟，B是白玉兰，C是桃花，D是什么？<br>
+我：那个紫色的玫瑰？<br>
+鱼：不对。<br>
+我：啊啊啊，我们不是有那个紫色玫瑰吗？怎么会呢？<br>
+鱼：不对，你再猜。<br>
+我（认真地环顾四周）：我很确定紫色玫瑰可以。<br>
+鱼：不对。<br>
+我：……<br>
+鱼：D是发芽的银柳。<br>
+我：……那按道理紫色玫瑰也行。<br>
+鱼：不对～～～～～～<br>
+我：@#¥%&amp;*「》\</p>
+<p>类似的，还有几组，ABCD分别为（D在括号中）：</p>
+<p>图书馆，西藏南路攀岩馆，黄浦滨江跑道，（松江的咖啡馆）<br>
+热干面，紫菜苔，草头，（鱼露）<br>
+呃，啊，哼，（嗷）<br>
+腰疼，油画，馄炖，（地铁）或（红色衣服）<br>
+杯子，水壶，保温杯，(Jessica)</p>
+<p>鱼：A是冻僵，B是呼呼晕大王，C是，C，C是……<br>
+我（狂笑）：哈哈哈哈～</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对当事人的采访]]></title>
         <id>https://isomorphismseven.github.io/post/dui-dang-shi-ren-de-cai-fang/</id>
@@ -107,33 +161,6 @@
 我：好啊。<br>
 鱼：哇，亲爱的，我看到我的心，在往回家走的路上。<br>
 <img src="https://isomorphismseven.github.io/post-images/1614754589217.jpg" alt="" loading="lazy"><em><center> 哇，亲爱的，我看到我的心，正在融化 </center></em></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[错误翻译]]></title>
-        <id>https://isomorphismseven.github.io/post/you-qu-de-xiao-shi-he-ji-updated-continuously/</id>
-        <link href="https://isomorphismseven.github.io/post/you-qu-de-xiao-shi-he-ji-updated-continuously/">
-        </link>
-        <updated>2021-03-03T06:41:04.000Z</updated>
-        <content type="html"><![CDATA[<p>我：所谓汤姆就是玛丽。<br>
-鱼：你在说什么，汤姆……（思考良久）<br>
-我：Time is money.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花光光的艺术世界]]></title>
-        <id>https://isomorphismseven.github.io/post/hua-guang-guang-de-yi-zhu-shi-jie/</id>
-        <link href="https://isomorphismseven.github.io/post/hua-guang-guang-de-yi-zhu-shi-jie/">
-        </link>
-        <updated>2021-03-03T02:35:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>我的鱼小时候有外号“花光光”——据说走过之处寸花不存。我认识到这个名字并非空穴来风。之前我们在后滩公园散步的时候，我摘了一棵狗尾巴草，她也摘了许多棵。但是她摘的狗尾巴没有我的高大，于是就一路扫荡，终于摘到了一棵比我的大的狗尾巴，在我面前昂首挺胸地炫耀起来，拿在手上把玩，和我的狗尾巴草打了许多旷日持久的架。不一会花光光的草就凋零殆尽。自然，凋零的狗尾巴不是好玩的狗尾巴。自然，我手上的那棵茁壮的狗尾巴草就也被征用过去了。自然，我的狗尾巴被蹂躏至残，但我想，我的狗尾巴应该是开心地被花光光拿在手上的。花光光虽然是花的大魔王，但是想必被她摘下的花是幸运的。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>我的鱼小时候有外号“花光光”——据说走过之处寸花不存。我认识到这个名字并非空穴来风。之前我们在后滩公园散步的时候，我摘了一棵狗尾巴草，她也摘了许多棵。但是她摘的狗尾巴没有我的高大，于是就一路扫荡，终于摘到了一棵比我的大的狗尾巴，在我面前昂首挺胸地炫耀起来，拿在手上把玩，和我的狗尾巴草打了许多旷日持久的架。不一会花光光的草就凋零殆尽。自然，凋零的狗尾巴不是好玩的狗尾巴。自然，我手上的那棵茁壮的狗尾巴草就也被征用过去了。自然，我的狗尾巴被蹂躏至残，但我想，我的狗尾巴应该是开心地被花光光拿在手上的。花光光虽然是花的大魔王，但是想必被她摘下的花是幸运的。</p>
-<!-- more -->
-<p>之后我们在黄浦到外滩散步的时候遇到了巨大无比的狗尾巴，差不多有鸡毛掸子大。花光光和我两眼放光，望着这天降宝物，自然是要收归国有。我们拿着它，一路挥舞一路笑，狗尾巴掉的毛沾满了我们的衣服。可惜此尾巴——应该适用宠物的规定——不能上地铁，最后就依依不舍地把它插在了西藏南路近pongo的出口旁边墙上。它骄傲地面对来来往往的路人，展示着自己作为巨大无比的狗尾巴（实际上我们想了想，它应该属于芦苇……）的优越感，直到几天后某路过阿姨把它领养回家（或者它随风而逝），它就消失不见了。<img src="https://isomorphismseven.github.io/post-images/1614742443000.JPG" alt="" loading="lazy"><em><center> 谁家大狗狗尾巴掉了 </center></em><br>
-最近，春节前后，鱼在房间里插了几盆花。今天忽然发现，插花的柳枝居然发芽了。有快两个月岁数的天堂鸟居然还生龙活虎，毫无枯萎迹象。不由得感叹花的生命力。可能花光光对花好，花也会对花光光好，可以更久地留存世上。不过前几天在小区中摘的玉兰花枯萎的也太快了吧。<img src="https://isomorphismseven.github.io/post-images/1614751884504.jpg" alt="" loading="lazy"><em><center> 柳枝的新芽，春天来了啊 </center></em><br>
-<img src="https://isomorphismseven.github.io/post-images/1614751932466.jpg" alt="" loading="lazy"><br>
-<img src="https://isomorphismseven.github.io/post-images/1614751631819.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
