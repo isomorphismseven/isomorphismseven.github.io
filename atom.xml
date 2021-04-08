@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isomorphismseven.github.io</id>
     <title>isomorphismseven</title>
-    <updated>2021-03-29T04:03:01.742Z</updated>
+    <updated>2021-04-08T02:40:34.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isomorphismseven.github.io"/>
     <link rel="self" href="https://isomorphismseven.github.io/atom.xml"/>
@@ -11,29 +11,66 @@
     <icon>https://isomorphismseven.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, isomorphismseven</rights>
     <entry>
-        <title type="html"><![CDATA[攀登装备介绍 1 ——Sport Climbing 下]]></title>
-        <id>https://isomorphismseven.github.io/post/pan-deng-zhuang-bei-jie-shao-1-sport-climbing-xia-a/</id>
-        <link href="https://isomorphismseven.github.io/post/pan-deng-zhuang-bei-jie-shao-1-sport-climbing-xia-a/">
+        <title type="html"><![CDATA[遗憾之旅——清凉峰]]></title>
+        <id>https://isomorphismseven.github.io/post/yi-han-zhi-lu-qing-liang-feng/</id>
+        <link href="https://isomorphismseven.github.io/post/yi-han-zhi-lu-qing-liang-feng/">
         </link>
-        <updated>2021-03-29T02:13:44.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>装备介绍系列文章均不构成装备使用说明和购买推荐。</strong><br>
-装备的使用非常复杂，系列文章不可能全部介绍到位，请遵循正规说明；装备的购买请自己决定。</p>
-<h2 id="grigri">GRIGRI</h2>
-<p><img src="https://isomorphismseven.github.io/post-images/1616986524984.JPG" alt="" loading="lazy"><em><center> Petzl GRIGRI+ </center></em><br>
-龟龟(GRIGRI)是一个可爱的名字（不是吗）。GRIGRI是Petzl生产的一种自锁保护器，常用于先锋保护和顶绳保护。收绳和给绳时，攀登绳会顺利地通过保护器，而坠落时的加速则会让GRIGRI锁住攀登绳。在运动攀岩中，GRIGRI很受欢迎。种种原因使得GRIGRI不适合登山运动。当绳子潮湿或结冰时，GRIGRI的效果会变差。并且GRIGRI大而重。但是GRIGRi最大的缺点还是自锁。下面探讨自锁保护器的缺点。</p>
-<p>首先了解两种冲坠时的保护模式。发生冲坠时，自锁保护器构成的系统可能是静态保护——攀登绳几乎没有移动，仿佛系在固定物体上一样。与之相对，动态保护中，绳子会从保护器中滑出一段距离，保护者也会有一段位移。考虑先锋冲坠情况。由于人体所能承受的拉力是有限的，系统各快挂、保护点、攀登绳等所能承受的拉力也是有限的，所以应当在保证安全的前提下，尽量减小系统各处所受的拉力。顶端保护点（最后一把快挂）受的力是保护者给予的拉力和冲坠端的冲力的合力，是系统受力最大的地方，也是保护系统中最关键的地方。静态保护中，由于攀登绳几乎不滑动，缓冲作用几乎都是由攀登绳的伸长起到的，保护者给的缓冲很少，所以保护点所受的拉力更大。而动态保护中，由于保护者的位移和攀登绳的滑动，保护者也给予了很多缓冲，这样可以减小保护点受的拉力。特别是在传统攀中，攀登者放置的保护点更不容易失效，系统也就更加安全。但是，攀登绳和保护者的移动又不能过大，以免攀登者撞到岩壁。</p>
-<p>一些攀登者会以一些独特的方式使用GRIGRI，比如在rope solo中。一些使用方式不是Petzl推荐的或认可的。Petzl的官方文件甚至专门提醒人们不要以某些方式使用GRIGRI。</p>
-<h1 id="dynamic-rope">Dynamic Rope</h1>
-<p><img src="https://isomorphismseven.github.io/post-images/1616986212713.PNG" alt="" loading="lazy"><em><center> Black Diamond 9.2 Climbing Rope </center></em><br>
-攀登保护使用的绳索主要是动力绳(dynamic rope)。与静力绳(static rope)相对，动力绳在受到冲坠时会伸长，可以起到缓冲作用，以保护攀登者、保护点和保护者。几乎所有动力绳都是kernmantle rope（芯鞘结构的绳），主要材质为尼龙。所有静力绳都必须为黑白两色，动力绳则没有要求。一些攀登类型经常使用的辅绳(cord)的延展性也很低。</p>
-<p>由于所有攀登绳都要经过欧洲机构的检验，所以单位都是公制。动力绳长度常为60m，70m，80m等。一般来说，动力绳有单绳(single rope)，半绳(half rope)和双子绳(twin rope)几种，绳头都有不同的标记。</p>
-<p>单绳，又称为主绳，是单独使用的绳索。单绳是最常见的动力绳。一般运动攀使用的攀登绳是单绳。半绳也称为双绳，双子绳又称为对绳，它们都是必须成对使用的攀登绳。三种攀登绳的绳头标记和基本使用见《登山手册》的此截图。<br>
-<img src="https://isomorphismseven.github.io/post-images/1616986729389.jpg" alt="" loading="lazy">之前的装备都有最大受力数据，但是对于动力绳来说，最大受力是没有意义的，攀登绳最大受力在30kN左右，比保护点和人体所能承受的力大得多，要造成这么大的冲击力，在实际攀登中是几乎不可能的。而且在测试之外，从未出现动力绳仅仅因受力而断裂的实例，所有被记录的动力绳断裂都有被切割或其他损坏因素。动力绳还要经过最大标准冲坠次数检验。但是检验时的冲坠系数(fall factor)很大，实际攀登时也几乎不会发生。</p>
-<p>对动力绳来说，相比于最大受力和最大标准冲坠次数，更重要的考虑因素是受到冲坠时产生的张力、防水性、单位长度的重量、手感、抗剪切能力等。动力绳的直径有时最好考虑，因为保护器有适合的直径范围。有了上面关于GRIGRI的探讨，你应该明白，一定范围内，冲坠时产生的张力小一些更好，因为攀登者放置的保护点不总是绝对可靠的。防水性对于登山来说非常重要，因为攀登绳进水或结冰将会带来很大的麻烦，进水也会降低攀登绳的强度。</p>
-<p>平常使用动力绳时要注意避免损伤绳索。尽量避免把动力绳放在沙土中，避免攀登绳受到长时间或高强度的日晒或长时间的风吹雨淋（有常年受到风吹雨淋日晒的攀登绳断裂造成伤亡的事故），不要踩绳，更不要穿着冰爪踩绳，绝对不要一镐打在动力绳上（这样顶绳爬到一半的你多半是废了）。注意不要使用普通记号笔在攀登绳上做标记，也不要在绳上贴胶带，可以使用厂商推出的专用笔，但是一些书（例如《登山手册》）写到用专门的笔也会对攀登绳产生损害。一般动力绳的中点已有标记。说到动力绳的中点，下降时千万不要忘记打防脱结（笔者听说的有至少两件与此有关的事故，其中一件造成顶级攀岩者令人心痛的死亡）。攀登绳的清洗可以参照说明书。收绳和存放攀登绳也有技术，具体不在这里详述。</p>
-<hr>
-<p>图片来自: blackdiamondequipment.com; petzl.com；《登山圣经》；《登山手册》<br>
-参考：华枫教的知识；Wikipedia；《登山圣经》；《登山手册》</p>
+        <updated>2021-04-06T03:12:46.000Z</updated>
+        <content type="html"><![CDATA[<p>清凉峰还是很快乐的，但是为什么把它叫做遗憾之旅呢？因为很遗憾鱼不能去，也因为第二天的重装几乎取消。</p>
+<p>简单来说，第一天就是简单的爬升、暴露感比较强但是简单的山脊和简单的下降，第二天就是重装小爬升、简单的扎营做饭，第三天就是简单的下降、讨厌的堵车。回来后腰不酸背不痛，甚至感觉还能跑5公里。流水账是没有意思的，下面讲一些有意思的。</p>
+<p>最好玩的就是狗狗“意义”了。这只狗狗让我意识到原来狗狗也很好玩！它是一只哈士奇，毛很长，摸起来比大橘差很多，但是算是很舒服的毛了。上车后，意义趴在我旁边的座位下面，这么好玩的毛球送上门来，我自然要把握机会，把它摸秃了。我一路上都在用猫语跟它交流，不停喵喵喵。大家觉得很奇怪，我就给我的行为加了一点justification，“现在的狗狗不会外语，就像是上海一年级的小朋友不会用英语辩论”。其实我不只跟狗狗喵，我跟所有动物都是喵。餐桌飞来一只飞虫，我一边用手赶，一边喵……后来某天，我听到一声喵，回头一看，发现小明姐也在用猫语跟意义交流。看来我的苦心还是可以理解的。<br>
+<img src="https://isomorphismseven.github.io/post-images/1617680216734.jpg" alt="" loading="lazy">意义是一只很聪明的狗狗。每次意义被踩到，都会嗷地叫一声。杨春说这是因为小时候她被意义弄疼都会嗷一下。在车上，意义从不排泄和排遗（虽然坐车太久了，它也迫切地想下车转悠，在车门那里久久徘徊……）。在服务区时，意义想上厕所了，就开启狗溜人模式，拉着狗绳牵着人就往草丛钻，最后在草丛里解决了生理问题，还用爪子简单地刨土示意自己埋起来了。我们在吃火锅，不给它吃，它饿着肚子饥肠辘辘（后来它的主人杨春说意义只是馋，其实不饿），生气得翻垃圾桶，拖出塑料袋，一个个撕碎以表不满。</p>
+<p>作为一个两岁多的小伙子，正值人类的18岁，意义一下车就在闻女生的屁股（难道这就是天下乌鸦一般黑？）。后来晚上睡农家乐时，意义非要跑到小明姐的床上一起睡……</p>
+<p>小明姐：昨晚跟一个小伙子睡了。<br>
+杨春：这个小伙子非要跳上小姐姐的床，拦了几次都拦不住，床单都换了一条。<br>
+任建宇：效果还是显著的，昨天还叫人家流氓狗，今天叫小伙子了。<img src="https://isomorphismseven.github.io/post-images/1617681074009.JPG" alt="" loading="lazy"><em><center> 猫也很喜欢上床睡…… </center></em><br>
+意义第一天上山时明显兴奋得不知天高地厚，跑到前面没人了，就往后跑，碰到人了，就再往前跑……看来小学数学题中小明放学回家，狗狗出来接他，狗狗碰到小明后往家跑，到家了之后再往小明的方向跑，问狗狗最终跑了多少距离的题目也不是空穴来风。意义时不时会在路边标记地盘，在这棵树底下撒一泡尿，那堆草中拉一点大便……但是一到了山脊，路变得险峻难走，意义也就显示出了可爱本性，一个劲想往回走。呵呵鹤评论道“在它脑袋中，往前是痛苦，往后是温暖的家，所以现在什么都不管只想回家了”。最后还得靠我们众人接力，给它坐人力电梯，才能帮它走过难关。最难的一次是三人接力。不过听呵呵鹤说，之前有人带猫来爬山，猫根本就不屑于理我们这些愚蠢的人类，一步都不走，最后靠大家轮流抱着才成功把猫运送过山……后来下山的时候，意义就走不动了，再也不做往返跑了，而且时不时还在地上趴着，仿佛失去了梦想。<br>
+<img src="https://isomorphismseven.github.io/post-images/1617768538491.JPG" alt="" loading="lazy">在山脊时，大家纷纷给意义喂吃的，仿佛是意义的天使。任建宇两手握拳，其中一个拳头中藏了一个火腿肠。没想到意义一下就猜出来了。经过此鉴定，意义是一只嗅觉灵敏的狗狗无疑了。但是除了吃的之外，意义还缺水。它非常渴（拿舌头散热能不渴吗），基本上就是见到水就舔。我们只能在遇到脏水的时候拉住意义。只是我去上野厕所的时候，意义也跟着，并且……实际上后来发现，它连自己的尿也会……<br>
+<img src="https://isomorphismseven.github.io/post-images/1617845763000.JPG" alt="" loading="lazy"><em><center> 意义和它的“母亲” </center></em><br>
+<img src="https://isomorphismseven.github.io/post-images/1617845592822.JPG" alt="" loading="lazy"><em><center> 表情也太同步了吧 </center></em><br>
+每次爬山都会遇到放弃治疗的人。有的会干脆坐着滑下泥巴坡算了，有的过小溪时鞋子灌水了之后干脆踩水里过了。我的天使就是后者。只不过老天爷不放她轻松，她最终还是在水里摔了一跤……我那时还不知道她是我的天使。后来第二天下午，我在她后面走，我想超车，超过去了，她又追上超回来了。我心想怎么会这么刚，想和我比速度吗。后来天黑了，大家都带上了头灯，她没有头灯，那就让她走我前面吧，我可以照一下。然后走着走着，她来了一句“你的任务是假装当别人的天使是吗”。她说她不知道怎么假装，可不可以换一个任务。我说那你有吃的吗。她说只剩一包腰果了。（腰果好干啊怎么吃得下去）我说呃好吧。又走了一段路，她叫我走前面，那我就走前面吧。但是后面大部队又很远，没有人给她照路，我就时不时回头照一下路，速度一下慢下来了。我想她可能是觉得我在后面照路有影子，所以叫我走前面？我问了，她说因为觉得我走得很快，怕挡着我走路……（那一开始怎么总是挡在我前面！）最后我们烤棉花糖的时候，她帮我烤了一个。在车上的时候，把腰果塞给我了。那就算完成任务吧。还好我没有被套路。她可能真的没假装别人的天使。给张阳送一个石头、给火锅火锅火锅送几朵小花也行啊。</p>
+<p>我的主人是杨春。可惜她到最后也猜不到我。她说超级喜欢打牌，要天使去组牌局。第一天晚上大家在底下打牌，我来了，她居然没来？第二天早上大家在底下打麻将，我来了，她居然就在旁边看着？这就叫超级喜欢打牌？我就在山上不停喂她吃的，馕、面包。她说感觉被喂了太多吃的，都不用吃自己的了。第三天早上，我终于组了一个牌局，她也玩了起来。我感觉总算完成任务了。哪知道最后她猜猜猜，我根本不在选项中！！！我只不过是隐藏得比较深！！！</p>
+<p>不过我真正的天使和主人当然是鱼啊。她是太阳的话我就是向日葵～</p>
+<p>最好玩的一段是山脊。这是一段部分路段暴露感有点强的岩石山脊。大家看到石头普遍都很难爬上去，但是我觉得这不是很简单的爬石头吗（凡尔赛起来）？<br>
+<img src="https://isomorphismseven.github.io/post-images/1617845787582.JPG" alt="" loading="lazy"><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768252145.JPG" alt="" loading="lazy"><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768653058.JPG" alt="" loading="lazy"><em><center> 好像铁板烧…… </center></em><br>
+在山脊，我充分展现了攀岩队风采，见石头就去爬。唯一一次失手是我抠一块突起，结果突起断裂，我就摔在地上了。因为有雾，暴露感没有那么强。但是云带来了雨滴，使石头变得又湿又滑。山脊大部分地方风都很大。大家走太慢了，穿短袖的我只好找大石头躲风，并且说出惊人之语“啊啊啊这里好多风”。最后经过寻路之后找到山顶的碑，大家赶紧拍了一个合照就下来了。<br>
+<img src="https://isomorphismseven.github.io/post-images/1617768242912.jpg" alt="" loading="lazy"><em><center> 这石头背面刻着“二锅头” </center></em><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768216996.jpg" alt="" loading="lazy"><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768460629.JPG" alt="" loading="lazy"><em><center> 看到我了吗 </center></em><br>
+山脊的风还把吴翟吹感冒了。回去之后他裹着厚厚的黑冰羽绒服，最后第二天搭个车就走了。还有几个人，第一天走崩了，第二天也走了。但是我觉得第一天完全不累啊……<img src="https://isomorphismseven.github.io/post-images/1617845665867.JPG" alt="" loading="lazy"><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768592208.JPG" alt="" loading="lazy"><em><center> 第一天刚开始的时候，大家完全没有意识到等待你们的将是12个小时的山路 </center></em><br>
+不得不说，上山一段真的太可怕了。我问有没有蚂蝗啊，回答说下雨可能有。马上就在地上看到了一个翘起身子的蚂蝗。太可怕了。于是大家就在鞋子上看有没有蚂蝗，陆续每个人都看到了鞋子上的蚂蝗。太可怕了。拉起裤子一看，有些人脚上已经有蚂蝗了。太可怕了。大家把蚂蝗弄下来，赶紧走。一休息蚂蝗就爬上来了。太可怕了。呵呵鹤又拿起了传统艺能——讲故事。他说有一次走新线，他穿短袖短裤，到了蚂蝗特别多的地方。蚂蝗爬上来了又不能停，一停大家就全被咬了。于是只能硬着头皮快走。最后数一下，被蚂蝗咬了20多口……有一次去大明山，那是史上最差营地。帐篷之间走一走就要被蚂蝗咬，煮饭时听到锅盖一声巨响，原来是大蚂蝗从树上掉下来了。太可怕了太可怕了。太可怕了。最后回到农家乐，我洗完澡，穿上裤子，卷起裤腿，发现脚上赫然躺着一只蚂蝗！太可怕了太可怕了太可怕了太可怕了太可怕了太可怕了。最后抢在它吸血之前把蚂蝗弄下来了，并且狠狠地弄死了蚂蝗。敢咬我？玩过巫师3的本猎魔人觉得应该喝一点黑血，这样吸我血的蚂蝗都会受到伤害，哼……</p>
+<p>最后到了紧张刺激的天使与主人揭秘环节了。呵呵鹤的“你们怎么都给我发一样的名字啊”敲响了欢乐的开始。我自然是猜对了天使。我的室友或帐篷友李玉奇就没这么幸运了。他一直坚决以为是李言熙，结果不是。哈哈哈哈哈我还提醒他登协套路多，要小心，他一直不信，说他的天使很明显，最后被套路了哈哈哈。当时他自我介绍完，李言熙就加了他。他问“天使？”，李言熙回答“嗯”。于是他就深陷圈套无法自拔。最后李言熙的确给他投了不少吃的，圈套越来越紧了……</p>
+<p>第二天为什么几乎没有重装呢？因为第一天大家都太累了。本来是说第一天住帐篷，农家乐洗澡的。这么累了，看到农家乐，谁还忍得住啊。结果都去农家乐开房睡觉了。第二天自然也走不了重装了。第二天下午开始从第三天的下撤道路上山，走到晚上九点多，第三天就走石板路下山，一会就走完了。不过做饭和烤棉花糖还是有很多趣味的。晚上睡觉也有很多趣味。李玉奇居然用协会的睡袋，那可是15度的啊。果不其然，他在只有几度的夜晚冻醒了。早上他说这帐篷怎么一直有风啊，我说那是因为我把窗户打开了……给大家增加了许多乐趣。<img src="https://isomorphismseven.github.io/post-images/1617767969633.jpg" alt="" loading="lazy"><br>
+<img src="https://isomorphismseven.github.io/post-images/1617845892343.JPG" alt="" loading="lazy"><br>
+<img src="https://isomorphismseven.github.io/post-images/1617845941129.JPG" alt="" loading="lazy"><br>
+人们爬山的理由各有不同。我是把爬山当作拉练，锻炼技能和体力，特别是负重爬坡，为之后爬更厉害的山作准备，所以不和鱼一起走的话喜欢走硬核的线。腐败指数不是太重要。所以感觉这次清凉峰太可惜了啊。都羡慕他们千八了。不过跟呵呵鹤走还是挺好玩的。苦于上海现在硬核线很少，像我一样喜欢硬核的人也不多。不过最近发现了攀岩队的两个人也喜欢硬核线，也不喜欢腐败线。</p>
+<p>还要说的就是，真的太堵车了！！！第一天三点还没到，就在服务区睡了。早上五点还要起来，有人就干脆不睡了。最后一天也是，4小时车程硬是堵了9小时。<br>
+<img src="https://isomorphismseven.github.io/post-images/1617769335962.jpg" alt="" loading="lazy"><em><center> 第一天我就这样睡的 </center></em><br>
+最后是一些好玩的东西。<br>
+<img src="https://isomorphismseven.github.io/post-images/1617846041842.JPG" alt="" loading="lazy"><em><center> 神奇啊 </center></em><br>
+<img src="https://isomorphismseven.github.io/post-images/1617846046757.JPG" alt="" loading="lazy"><em><center> 我们的帐篷 </center></em><br>
+<img src="https://isomorphismseven.github.io/post-images/1617767867785.jpg" alt="" loading="lazy"><em><center> 百度翻译水平 </center></em><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768144467.JPG" alt="" loading="lazy"><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768287578.jpg" alt="" loading="lazy"><em><center> 呵呵鹤哈哈哈 </center></em><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768157562.jpg" alt="" loading="lazy"><em><center> 文叔 </center></em><br>
+<img src="https://isomorphismseven.github.io/post-images/1617768166295.JPG" alt="" loading="lazy"><em><center> 吴翟 </center></em></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reel Rock]]></title>
+        <id>https://isomorphismseven.github.io/post/reel-rock/</id>
+        <link href="https://isomorphismseven.github.io/post/reel-rock/">
+        </link>
+        <updated>2021-04-01T09:52:08.000Z</updated>
+        <content type="html"><![CDATA[<p>想不到在上海能看RR，我高兴得要上天了。<br>
+<img src="https://isomorphismseven.github.io/post-images/1617277919287.png" alt="" loading="lazy">本次活动是岩友举办，由多品牌赞助的“民间”观影活动。活动购买了RR15正版版权（$400左右），借用了一个类似工作室的环境，使用一个小投影仪和HomePod进行放映，会场有蛋糕、面包、饼干、寿司、水果、啤酒等食物随意享用。感谢港港把她的电影票转给我。感谢那么多岩友费尽心思举办了这样的活动。活动免费，只是限制人数，有义卖和自愿捐赠环节。大家让我感觉到了攀岩大家庭的独特之处——温暖。与朋友分享时，我可以自豪地说“这就是攀岩大家庭”。最后主持人和某参与者总结得很好，“没有人在意你的出身、性别、来自何方、持什么观点、水平，大家只是一起爬，一起交流怎么爬”。作为一个穷大学生，我自然没有买动辄上百块的普通布料，但是这么好的活动，一定当然得捐钱！！！所筹款项将用于下一次活动的筹办。虽然下一次活动我估计是参加不了了，但是衷心希望这样的活动越来越多。<br>
+<img src="https://isomorphismseven.github.io/post-images/1617272882219.JPG" alt="" loading="lazy">还记得攀岩群里加州的人守在电脑前看RR15的首映。RR真的是一个可以凝聚起攀岩者、甚至攀登者的电影。或者说它不是电影，是一系列documentary。RR15讲述了四个动人的故事。BLACK ICE讲述了Memphis的黑人岩友和美国登山界大哥Conrad Anker一起尝试加拿大的攀冰，突破自我、认识自我；ACTION DIRECTE讲述了法国运动员Melissa Le Nevé放弃职业比赛，经历怀疑与多年的训练，成为第一个拿下Action Directe（Wolfgang Güllich首攀的世界上第一条9a，他是德国人，线路也在德国，线路名字却是法语）的女性，突破自我的故事；FIRST ASCENT / LAST ASCENT讲述了英国攀岩挚友Hazel Findlay和Maddy Cope前往蒙古开辟传统攀新路线，发现了自己的无限可能的故事；DEEP ROOTS讲述Yosemite原住民Lonnie Kauk从滑雪到攀岩，攀登作为一代传奇的父亲的线路，并且家族寻根的故事。<br>
+<img src="https://isomorphismseven.github.io/post-images/1617278043030.png" alt="" loading="lazy">2020年的RR的四个故事的选择多少有些政治和女性主义色彩，但是这些都不是它的缺点。这些词语之所以成为词语，本身就是这个世界的错误。很高兴看到黑人岩友突破自我、与自己对话，也很高兴看到Conrad帮助他们，提供这样的机会。很高兴看到女性完攀以力量出名的Action Directe（更想看到自己完攀），很高兴看到为生计发愁的攀岩者能最后辞掉工作（好想知道她的生计怎么办），并且前往蒙古开线，探索了自己的边界。最后DEEP ROOTS结尾音乐淹没了整个小房间，伴随着他一步一步攀爬，眼眶都要湿润了。</p>
+<p>岩馆Memphis Rox令我印象深刻。想不到世界上还有这么好的地方。为了帮助大家接触攀岩，Memphis Rox规定来到那里攀岩随便交多少钱都行，每个人来了都要被问how much do you want to pay。我看到很多黑人岩友在那里找到了温暖与希望。是啊，在Memphis这个黑人占99.9%的地方，在这个Martin Luther King, Jr遭到暗杀的地方，在这个Floyd事件的时代，黑人群体如何在这个充满敌意和希望的世界中安身立命呢？片名Black Ice当然不是黑冰的冠名，而是黑人们苦涩的自嘲，白白的冰上黑色的黑人多么显眼突兀而又孤单。这个岩馆或许就是那样一个安全温暖的小窝。我仍然记得片中有人受过严重的伤，左手不能抬到肩膀以上，还是努力攀岩，并且在大家的帮助下成功爬上冰壁。看着他左手十分别扭地挥镐，并且必须上半身也转动发力才能入冰，最后一步步爬上去，感觉真的太不容易了。</p>
+<p>最令我喜欢和印象深刻的是Action Directe，我看到了她如何准备和训练的。这个线路短，但十分暴力，基本上就是对力量的考验。起步不久就是一个指洞的跳跃，许多人在这里就失败了。过了这一步也不能开心，因为之后就是一系列的难点，直到差不多线路终点，一个困难的横向动作构成了最后一个大难点。Wolfgang当年为了这条线路发明了各种各样的训练器械和方法，告诉人们9a也是可能的，也只有通过系统的训练才能达到9a。为了更好地抠住pocket，她把手指磨细，用两个手指去抠。渐渐地她几十次中偶尔几次能过这一步了。某一次偶然过了这个难点之后，她一个劲向上冲，满以为她就要完成线路了，谁知在最后一个横向动作难点上掉了。可能是前面的难点耗费了她太多力气吧。就差这么一点，但是就是这么一点练了她数年时间（如果我没记错的话）。后来她为了这条线做了一个别人都不理解的决定——放弃了竞赛生涯。为了完全掌握第一个难点，她请教练在抱石墙上复制了难点区域，对应地训练，最后终于可以稳定过这一步了。（从此要开始黑练了，水平不强都没脸去看这些电影。）我始终记得她最后一次尝试，也是成功的那次，过完跳跃的难点之后，她一声又一声的嘶吼，穿过了时间，穿过了荧幕，爆炸在小小的房间中，也回响在一个个攀岩者的心里。</p>
 ]]></content>
     </entry>
     <entry>
@@ -88,33 +125,9 @@
         <link href="https://isomorphismseven.github.io/post/bian-shen-cheng-wei-yi-ke-da-lu-hui/">
         </link>
         <updated>2021-03-28T13:38:49.000Z</updated>
-        <content type="html"><![CDATA[<p>鱼洗完澡，盯着一瓶身体乳，愁眉苦脸道：“剩下不多了，但是丢掉又有点浪费诶……”最后，鱼决定把它用完，“我把全身都涂一涂吧”。</p>
+        <content type="html"><![CDATA[<p>鱼洗完澡，盯着一瓶身体乳，决定把它用完，“我把全身都涂一涂吧”。</p>
 <p>听到这句话的我，用如同眼看着有人提着我最喜欢的长毛猫拿剪子说要剪猫毛时的眼神望向鱼。鱼看到了立马心领神会，笑出了做坏事时的得意笑声：“就喜欢看你想亲又无处下口的表情。”（？？？）</p>
 <p>最后，在床上抱着鱼时，鱼满身都是芦荟味道。我深深地吸了一口气，好好闻了闻芦荟气味，说：“仿佛抱着一颗小芦荟。”</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攀登装备介绍 1 ——Sport Climbing 中]]></title>
-        <id>https://isomorphismseven.github.io/post/pan-deng-zhuang-bei-jie-shao-1-sport-climbing-zhong/</id>
-        <link href="https://isomorphismseven.github.io/post/pan-deng-zhuang-bei-jie-shao-1-sport-climbing-zhong/">
-        </link>
-        <updated>2021-03-28T11:10:02.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>装备介绍系列文章均不构成装备使用说明和购买推荐。</strong><br>
-装备的使用非常复杂，系列文章不可能全部介绍到位，请遵循正规说明；装备的购买请自己决定。</p>
-<h2 id="quickdraw">Quickdraw</h2>
-<p><img src="https://isomorphismseven.github.io/post-images/1615094284648.PNG" alt="" loading="lazy"><br>
-<em><center> Black Diamond Litewire Quickdraw 12cm </center></em><br>
-快挂(quickdraw)是由短扁带连接的两个散锁（锁门无锁）组合。常连接在保护点上，用于引导攀登绳、使攀登绳流畅地滑动。现在的大多数快挂最大受力不低于22kN。</p>
-<p>我们买到的快挂基本上都是分上下的。下端锁与扁带有特殊的固定连接，使得锁不易转动方向。上端则无，只是普通连接。因为多层缝制线和其他因素的缘故，快挂中间的扁带也不似一般的扁带柔软，以助于更好地固定方向。除掉这些区别，快挂=短扁带+两个散锁。一些阿式攀登者会用短扁带+两个散锁代替快挂，因为这样更加灵活（比如缺扁带时就可以拆一个快挂，快挂长度也方便调整，适合不同线路），强度却一点也不会降低（扁带的最大受力也为22kN）。有些时候也可以用锁门有锁的主锁代替快挂上的锁。</p>
-<p>使用时，要注意快挂的下端锁扣入攀登绳，上端锁扣入保护点。下端锁的方向固定，方便扣绳。上端锁的方向不固定，便于快挂受力。因为快挂上端扣入保护点，而保护点经常是金属挂片，所以上端锁可能会有锋利边缘，若扣入攀登绳等装备可能会造成损坏。还要注意挂快挂时上下锁门与攀登方向相反，扣绳时攀登绳由内侧（岩壁侧）向外穿出，否则可能会导致快挂脱出。<br>
-<img src="https://isomorphismseven.github.io/post-images/1615196057311.jpg" alt="" loading="lazy"><em><center> Petzl的部分技术说明 </center></em></p>
-<h2 id="harness">Harness</h2>
-<p>安全带是用于攀岩、登山、绳降、高空作业等活动的攀登装备。此处讲的是用于攀登的坐式安全带。安全带可以把人安全地连接在保护站或攀登绳上。虽然由绳子也可以制作简易安全带，现在大家还是更多使用专门生产的攀登安全带。这些安全带会更加舒适安全，通常还会带有装备环(gear loop)。<br>
-<img src="https://isomorphismseven.github.io/post-images/1616932383817.PNG" alt="" loading="lazy"><em><center> Black Diamond Technician Harness </center></em><br>
-通常情况下，安全带上的保护环经由主锁，由带防脱结(stopper knot)的八字结(figure-eight follow through)连接动力绳(dynamic rope)。缺点是承受坠落的八字结很难解开。其他绳结也行，一般是布林结(double bowline)，《登山手册》(<em>&quot;The Mountaineering Handbook&quot;</em>)就极力推荐大家使用布林结。不过布林结的名字很容易让人连想起不灵……</p>
-<hr>
-<p>图片来自: blackdiamondequipment.com；petzl.com<br>
-参考：华枫教的知识；《登山手册》；Wikipedia</p>
 ]]></content>
     </entry>
     <entry>
@@ -158,35 +171,59 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[攀登装备介绍 1 ——Sport Climbing 上]]></title>
+        <title type="html"><![CDATA[攀登装备介绍——Sport Climbing]]></title>
         <id>https://isomorphismseven.github.io/post/zhuang-bei-jie-shao-1/</id>
         <link href="https://isomorphismseven.github.io/post/zhuang-bei-jie-shao-1/">
         </link>
         <updated>2021-03-07T02:31:57.000Z</updated>
-        <content type="html"><![CDATA[<p>本节开始我们介绍一些技术装备。本期是运动攀的相关装备介绍上集。这些装备大多也是其他攀登类型的必备装备。</p>
-<p>购买技术装备请选择可靠渠道，并且注意生产日期。一般来说，5年以上即不宜使用，即使是新装备或貌似没有问题的装备。装备出现一些程度的磨损和老化时请及时更换，受过强力冲坠的装备最好更换，具体这里不再细讲。</p>
-<p><strong>装备介绍系列文章均不构成装备使用说明和购买推荐。</strong><br>
+        <content type="html"><![CDATA[<p><strong>装备介绍系列文章均不构成装备使用说明和购买推荐。</strong><br>
 装备的使用非常复杂，系列文章不可能全部介绍到位，请遵循正规说明；装备的购买请自己决定。</p>
-<h2 id="atc-air-traffic-controller">ATC (Air Traffic Controller)</h2>
+<p>购买装备请选择可靠渠道，并且注意生产日期。一般来说，5年以上即不宜使用，即使是新装备或貌似没有问题的装备。装备出现一些程度的磨损和老化时请及时更换，受过强力冲坠的装备最好更换，具体这里不再细讲。</p>
+<h2 id="atc">ATC</h2>
 <p><img src="https://isomorphismseven.github.io/post-images/1615085231737.PNG" alt="" loading="lazy"><em><center> Black Diamond ATC-Alpine Guide </center></em><br>
-ATC是保护(belay)时使用的装备，某些ATC也可用于绳降(rappel)。目前ATC是使用最多的保护装备。ATC一般通过主锁连接到安全带的相应位置。ATC的核心关键是给绳索提供足够的摩擦力。只要操作正确，即使很小的抓握力也能产生很大的摩擦力。使用ATC或八字环等装备保护时，须使用五步保护法。<br>
+ATC (Air Traffic Controller)是保护(belay)时使用的装备，某些ATC也可用于绳降(rappel)。目前ATC是使用最多的保护装备。ATC一般通过主锁连接到安全带的相应位置。ATC的核心关键是给绳索提供足够的摩擦力。只要操作正确，即使很小的抓握力也能产生很大的摩擦力。使用ATC或八字环等装备保护时，须使用五步保护法。<br>
 <img src="https://isomorphismseven.github.io/post-images/1615091969654.jpg" alt="" loading="lazy"><br>
 <em><center> 《登山圣经》上有孔保护器的使用（吊带即安全带） </center></em><br>
 使用ATC时攀登者的手必须时刻确保抓住摩擦端的绳索，否则绳索位置改变，制动效果会大大降低。这也是ATC的不足之处。此外，当绳索进水或结冰、直径变大时，抽绳也将变得困难。在BD的官网上，ATC分为ATC和ATC-Guide等，guide可以作上方保护，此处不再细说。</p>
+<p>尽管ATC长得都差不多，不同品牌或不同种类的ATC使用起来可能有手感上（比如是否容易卡绳）的玄学差异。</p>
+<h2 id="grigri">GRIGRI</h2>
+<p><img src="https://isomorphismseven.github.io/post-images/1617079151474.JPG" alt="" loading="lazy"><em><center> Petzl GRIGRI+ </center></em><br>
+龟龟(GRIGRI)是一个可爱的名字（不是吗）。GRIGRI是Petzl生产的一种自锁保护器，常用于先锋保护和顶绳保护。收绳和给绳时，攀登绳会顺利地通过保护器，而坠落时的加速则会让GRIGRI锁住攀登绳。在运动攀中，GRIGRI很受欢迎。种种原因使得GRIGRI不适合登山运动。当绳子潮湿或结冰时，GRIGRI的效果会变差。并且GRIGRI大而重。但是GRIGRi最大的缺点还是自锁。下面探讨自锁保护器的缺点。</p>
+<p>首先了解两种冲坠时的保护模式。发生冲坠时，自锁保护器构成的系统可能是静态保护——攀登绳几乎没有移动，仿佛系在固定物体上一样。与之相对，动态保护中，绳子会从保护器中滑出一段距离，保护者也会有一段位移。考虑先锋冲坠情况。由于人体所能承受的拉力是有限的，系统各快挂、保护点、攀登绳等所能承受的拉力也是有限的，所以应当在保证安全的前提下，尽量减小系统各处所受的拉力。顶端保护点（最后一把快挂）受的力是保护者给予的拉力和冲坠端的冲力的合力，是系统受力最大的地方，也是保护系统中最关键的地方。静态保护中，由于攀登绳几乎不滑动，缓冲作用几乎都是由攀登绳的伸长起到的，保护者给的缓冲很少，所以保护点所受的拉力更大。而动态保护中，由于保护者的位移和攀登绳的滑动，保护者也给予了很多缓冲，这样可以减小保护点受的拉力。特别是在传统攀中，攀登者放置的保护点更不容易失效，系统也就更加安全。但是，攀登绳和保护者的移动又不能过大，以免攀登者撞到岩壁。</p>
+<p>一些攀登者会以一些独特的方式使用GRIGRI，比如在rope solo中。一些使用方式不是Petzl推荐的或认可的。Petzl的官方文件甚至专门提醒人们不要以某些方式使用GRIGRI。</p>
 <h2 id="carabiner">Carabiner</h2>
 <p><img src="https://isomorphismseven.github.io/post-images/1615091293840.PNG" alt="" loading="lazy"><em><center> Black Diamond Liteforge Screwgate Carabiner </center></em><br>
 主锁(carabiner)是一种锁扣。主锁在攀岩、登山、探洞、消防、航海、热气球、高空作业等活动中都有用处。现在，一般我们说的主锁是开口端带锁套的（如上图），锁套可以旋紧（或自动锁紧），以避免意外打开。两把无锁的主锁背靠背使用也可以起到防止意外打开的作用。主锁分O型(Oval)、D型(D)、改良D型(Offset-D)和梨型(Pear/HMS)。HMS主锁适用于意大利半扣(munter hitch)。（HMS是德语Halb-Mastwurf-Sicherung的缩写，意思为适用于半扣操作。）<br>
 <img src="https://isomorphismseven.github.io/post-images/1615092474696.jpg" alt="" loading="lazy"><br>
 <em><center> 从左到右分别是O型、D型、改良D型、HMS主锁 </center></em><br>
 正确使用的话，主锁非常坚固。以广泛使用的HMS主锁为例，最佳受力方向当然是纵向（远离锁门的长边，即最长的对角线方向）。国际标准要求最大受力大于20kN。在一些不良使用中，主锁的强度会大大降低。比如锁门打开、横向受力、边缘摩擦、多向受力、杠杆原理、负载过多等。主锁锁身上一般会刻有相关参数，比如不同方向受力的千牛数等。</p>
+<h2 id="quickdraw">Quickdraw</h2>
+<p><img src="https://isomorphismseven.github.io/post-images/1615094284648.PNG" alt="" loading="lazy"><br>
+<em><center> Black Diamond Litewire Quickdraw 12cm </center></em><br>
+快挂(quickdraw)是由短扁带连接的两个散锁（锁门无锁）组合。常连接在保护点上，用于引导攀登绳、使攀登绳流畅地滑动。现在的大多数快挂最大受力不低于22kN。</p>
+<p>我们买到的快挂基本上都是分上下的。下端锁与扁带有特殊的固定连接，使得锁不易转动方向。上端则无，只是普通连接。因为多层缝制线和其他因素的缘故，快挂中间的扁带也不似一般的扁带柔软，以助于更好地固定方向。除掉这些区别，快挂=短扁带+两个散锁。一些阿式攀登者会用短扁带+两个散锁代替快挂，因为这样更加灵活（比如缺扁带时就可以拆一个快挂，快挂长度也方便调整，适合不同线路），强度却一点也不会降低（扁带的最大受力也为22kN）。有些时候也可以用锁门有锁的主锁代替快挂上的锁。</p>
+<p>使用时，要注意快挂的下端锁扣入攀登绳，上端锁扣入保护点。下端锁的方向固定，方便扣绳。上端锁的方向不固定，便于快挂受力。因为快挂上端扣入保护点，而保护点经常是金属挂片，所以上端锁可能会有锋利边缘，若扣入攀登绳等装备可能会造成损坏。还要注意挂快挂时上下锁门与攀登方向相反，扣绳时攀登绳由内侧（岩壁侧）向外穿出，否则可能会导致快挂脱出。<br>
+<img src="https://isomorphismseven.github.io/post-images/1615196057311.jpg" alt="" loading="lazy"><em><center> Petzl的部分技术说明 </center></em></p>
+<h2 id="harness">Harness</h2>
+<p>安全带是用于攀岩、登山、绳降、高空作业等活动的攀登装备。此处讲的是用于攀登的坐式安全带。安全带可以把人安全地连接在保护站或攀登绳上。虽然由绳子也可以制作简易安全带，现在大家还是更多使用专门生产的攀登安全带。这些安全带会更加舒适安全，通常还会带有装备环(gear loop)。<br>
+<img src="https://isomorphismseven.github.io/post-images/1616932383817.PNG" alt="" loading="lazy"><em><center> Black Diamond Technician Harness </center></em><br>
+通常情况下，安全带上的保护环经由主锁，由带防脱结(stopper knot)的八字结(figure-eight)连接动力绳(dynamic rope)。缺点是承受坠落的八字结很难解开。其他绳结也行，一般是布林结(double bowline)，《登山手册》(<em>&quot;The Mountaineering Handbook&quot;</em>)就极力推荐大家使用布林结。不过布林结的名字很容易让人连想起不灵……</p>
+<h1 id="dynamic-rope">Dynamic Rope</h1>
+<p><img src="https://isomorphismseven.github.io/post-images/1616986212713.PNG" alt="" loading="lazy"><em><center> Black Diamond 9.2 Climbing Rope </center></em><br>
+攀登保护使用的绳索主要是动力绳(dynamic rope)。与静力绳(static rope)相对，动力绳在受到冲坠时会伸长，可以起到缓冲作用，以保护攀登者、保护点和保护者。几乎所有动力绳都是kernmantle rope（芯鞘结构的绳），主要材质为尼龙。所有静力绳都必须为黑白两色，动力绳则没有要求。一些攀登类型中经常使用的辅绳(cord)的延展性也很低。</p>
+<p>由于所有攀登绳都要经过欧洲机构的检验，所以单位都是公制。动力绳长度常为60m，70m，80m等。一般来说，动力绳有单绳(single rope)，半绳(half rope)和双子绳(twin rope)几种，绳头都有不同的标记。运动攀主要使用单绳，但是其他动力绳也在这里一并介绍。</p>
+<p>单绳，又称为主绳，是单独使用的绳索。单绳是最常见的动力绳。半绳也称为双绳，双子绳又称为对绳，它们都是必须成对使用的攀登绳。三种攀登绳的绳头标记和基本使用见来自《登山手册》的下图。<br>
+<img src="https://isomorphismseven.github.io/post-images/1616986729389.jpg" alt="" loading="lazy">对于动力绳来说，最大受力是没有意义的，攀登绳最大受力在30kN左右，比保护点和人体所能承受的力大得多，要造成这么大的冲击力，在实际攀登中是几乎不可能的。而且在测试之外，从未出现动力绳仅仅因受力而断裂的实例，所有被记录的动力绳断裂都有被切割或其他损坏因素。动力绳还要经过最大标准冲坠次数检验。但是检验时的冲坠系数(fall factor)很大，实际攀登时也几乎不会发生。</p>
+<p>对动力绳来说，相比于最大受力和最大标准冲坠次数，更重要的考虑因素是受到冲坠时产生的张力、防水性、单位长度的重量、手感、抗剪切能力等。动力绳的直径有时最好考虑，因为保护器有适合的直径范围。有了上面关于GRIGRI的探讨，你应该明白，一定范围内，冲坠时产生的张力小一些更好，因为攀登者放置的保护点不总是绝对可靠的。防水性对于登山来说非常重要，因为攀登绳进水或结冰将会带来很大的麻烦，进水也会降低攀登绳的强度。</p>
+<p>攀登绳使用时需要注意很多事项。使用动力绳时要注意避免损伤绳索，尽量避免把动力绳放在沙土中，避免攀登绳受到长时间或高强度的日晒或长时间的风吹雨淋（有常年受到风吹雨淋日晒的攀登绳断裂造成伤亡的事故），不要踩绳，更不要穿着冰爪踩绳，绝对不要一镐打在绳上（这样顶绳爬到一半的你多半是废了）。攀登绳不可以直接扣在挂片中（只有傻景区才会这么做）。注意不要使用普通记号笔在攀登绳上做标记，也不要在绳上贴胶带，可以使用厂商推出的专用笔，但是一些书（例如《登山手册》）写到用专门的笔也会对攀登绳产生损害。一般动力绳的中点已有标记。说到动力绳的中点，下降时千万不要忘记打防脱结（笔者听说的有至少两件与此有关的事故，其中一件造成顶级攀岩者令人心痛的死亡）。攀登绳的清洗可以参照说明书。收绳和存放攀登绳也有技术，具体不在这里详述。</p>
 <h2 id="helmet">Helmet</h2>
 <p><img src="https://isomorphismseven.github.io/post-images/1615174105578.PNG" alt="" loading="lazy"><em><center> Black Diamond Vector Helmet </center></em><br>
 头盔是野攀不可缺少的装备。须知落石是登山者伤亡的最大原因之一。头盔可以在一定程度上保护头部。<br>
 <img src="https://isomorphismseven.github.io/post-images/1615174277092.jpg" alt="" loading="lazy"><br>
-现代的头盔大致分两种，保护效果差别不大。一种耐用但是重量稍大；一种相比之下不太耐用（可能一撞一个坑），但是轻便（适合阿式等活动）。</p>
+现代的攀登头盔按材料大致分两种，保护效果差别不大。一种耐用但是重量稍大；一种相比之下不太耐用（可能一撞一个坑），但是轻便（适合阿式等活动）。不要使用别的头盔（自行车头盔、真人CS头盔等）代替攀登头盔。</p>
 <hr>
-<p>图片来自: blackdiamondequipment.com; 《登山圣经》<br>
-参考：华枫教的知识；《登山圣经》；Wikipedia</p>
+<p>图片来自: blackdiamondequipment.com; petzl.com；《登山圣经》；《登山手册》<br>
+参考：华枫；Wikipedia；《登山圣经》；《登山手册》</p>
 ]]></content>
     </entry>
 </feed>
