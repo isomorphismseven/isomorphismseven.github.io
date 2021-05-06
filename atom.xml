@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isomorphismseven.github.io</id>
     <title>isomorphismseven</title>
-    <updated>2021-04-25T03:57:56.635Z</updated>
+    <updated>2021-05-06T02:35:24.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isomorphismseven.github.io"/>
     <link rel="self" href="https://isomorphismseven.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://isomorphismseven.github.io/images/avatar.png</logo>
     <icon>https://isomorphismseven.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, isomorphismseven</rights>
+    <entry>
+        <title type="html"><![CDATA[有魔力的鱼]]></title>
+        <id>https://isomorphismseven.github.io/post/you-mo-li-de-yu/</id>
+        <link href="https://isomorphismseven.github.io/post/you-mo-li-de-yu/">
+        </link>
+        <updated>2021-05-06T02:33:27.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://isomorphismseven.github.io/post-images/1620268440604.JPG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特跳舞]]></title>
         <id>https://isomorphismseven.github.io/post/bi-te-tiao-wu/</id>
@@ -274,22 +283,6 @@ Z杖即折叠杖。一般来说，Z杖可以做到更轻、收纳长度更短（
 <p>鱼：“亲爱的，你吃吧，我现在不想吃东西。”</p>
 <p>我拿起一颗西梅，转过身。还没吃完，听到背后传来鱼的声音“哇，西梅！我爱吃！”转过头，发现鱼已经津津有味地吃了起来。</p>
 <p>亲爱的，你太可爱了吧。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习惯了……]]></title>
-        <id>https://isomorphismseven.github.io/post/ni-shi-bu-shi-hen-wu-yu/</id>
-        <link href="https://isomorphismseven.github.io/post/ni-shi-bu-shi-hen-wu-yu/">
-        </link>
-        <updated>2021-04-09T04:13:29.000Z</updated>
-        <content type="html"><![CDATA[<p>我睡眼惺忪地起来了。</p>
-<p>我看着松松蓬蓬的羽绒被，又香又软，鼓起来一个非常可爱的小山包，心潮澎湃地用手拍着山包说：“哇好可爱，这被子～～～”眼里发出光芒，仿佛黑暗中的手电筒。</p>
-<p>鱼笑着看了我一下，转而又继续做自己的事了。我问：“你是不是觉得很无语？”</p>
-<p>鱼：“没有啊……”</p>
-<p>我松了一口气。</p>
-<p>鱼：”习惯了。“</p>
-<p>冻僵。我的智商真的下降了这么多吗？</p>
-<p>爱情使人变得傻乎乎的，但是也会可爱起来。</p>
 ]]></content>
     </entry>
 </feed>
