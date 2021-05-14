@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isomorphismseven.github.io</id>
     <title>isomorphismseven</title>
-    <updated>2021-05-13T17:01:29.286Z</updated>
+    <updated>2021-05-14T03:30:49.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isomorphismseven.github.io"/>
     <link rel="self" href="https://isomorphismseven.github.io/atom.xml"/>
@@ -16,8 +16,12 @@
         <link href="https://isomorphismseven.github.io/post/pan-yan-de-ying-yong/">
         </link>
         <updated>2021-05-13T15:44:47.000Z</updated>
-        <content type="html"><![CDATA[<p>鱼（困）：哈欠爬上了我的嘴巴。</p>
+        <content type="html"><![CDATA[<h2 id="eins">Eins</h2>
+<p>鱼（困）：哈欠爬上了我的嘴巴。</p>
 <p>我：我也想爬上你的嘴巴。</p>
+<h2 id="zwei">Zwei</h2>
+<p>我：抓住你洗完澡的间隙，爬上你的脸颊和嘴唇。</p>
+<p>鱼：还好你不是皱纹。</p>
 ]]></content>
     </entry>
     <entry>
