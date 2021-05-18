@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://isomorphismseven.github.io</id>
     <title>isomorphismseven</title>
-    <updated>2021-05-14T10:59:57.182Z</updated>
+    <updated>2021-05-18T02:59:29.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://isomorphismseven.github.io"/>
     <link rel="self" href="https://isomorphismseven.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://isomorphismseven.github.io/images/avatar.png</logo>
     <icon>https://isomorphismseven.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, isomorphismseven</rights>
+    <entry>
+        <title type="html"><![CDATA[好可爱呀]]></title>
+        <id>https://isomorphismseven.github.io/post/hao-ke-ai-ya/</id>
+        <link href="https://isomorphismseven.github.io/post/hao-ke-ai-ya/">
+        </link>
+        <updated>2021-05-18T01:17:38.000Z</updated>
+        <content type="html"><![CDATA[<p>鱼（早些时候）：你醒了之后就会动，发出嘟隆嘟隆的声音，我就醒了。之后刚刚快重新进入睡眠，发现怎么有个人凑过来抱我！</p>
+<p>鱼：怎么这么晚了！今天我一定要睡到八点。你，明天早晨醒的时候，不要吵我。</p>
+<p>我（委屈，撅嘴）：好吧。</p>
+<p>早上醒来，睁开朦胧惺忪的睡眼，发现鱼往我这边蹭了蹭。记得鱼的话，我拖着被子，往床的边缘移动。刚闭眼，就感觉到鱼凑过来抱住我了。心里觉得完了等会肯定会弄醒鱼。睁开眼一看，鱼正在用她那明晃晃的大眼睛盯着我看，嘴边是傻傻的笑容，好明亮好温暖，仿佛一点睡意都没有了，就想玩！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[攀岩的应用]]></title>
         <id>https://isomorphismseven.github.io/post/pan-yan-de-ying-yong/</id>
@@ -145,22 +157,6 @@
         <content type="html"><![CDATA[<p>鱼在吃饭，有美味的牛腩、青菜和绿豆粥。鱼觉得很饱，牛腩和粥已经吃不完了。我们提到了芒果，要不要吃芒果呢？<br>
 <img src="https://isomorphismseven.github.io/post-images/1618757450454.JPG" alt="" loading="lazy">鱼说，不是西梅哟～不会吃的……</p>
 <p>（每篇博客鱼都认真看了）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pongo的变位]]></title>
-        <id>https://isomorphismseven.github.io/post/pongo-de-bian-wei/</id>
-        <link href="https://isomorphismseven.github.io/post/pongo-de-bian-wei/">
-        </link>
-        <updated>2021-04-16T12:03:07.000Z</updated>
-        <content type="html"><![CDATA[<p>不定式pongo<br>
-Je pongs; Tu pongs; Il pong;<br>
-Nous ponons; Vous ponez; Ils ponnent</p>
-<p>例句：<br>
-Les enfants ponnent en classe.</p>
-<p>课文:<br>
-Bonjour, Madame, je voudrais quelques renseignements, s'il vour plaît. Qu'est-ce qu'il y a à pongo en Shanghai?<br>
-Beaucoup de choses, Monsieur! C'est une très belle région. Vous pouvez visiter Pongo, c'est très intéressant pour les enfants. Je vous propose aussi d'aller à la usine, c'est magnifique et spectaculaire.</p>
 ]]></content>
     </entry>
 </feed>
